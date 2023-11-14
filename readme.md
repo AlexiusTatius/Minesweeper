@@ -12,7 +12,7 @@ I remember my first experience with computers in the 90's involved playing this 
 ![UI Screenshot](https://i.imgur.com/LUzYddy.png)
 
 ## Getting Started
-[Play the Game here](https://nickarocho.github.io/minesweeper/)!
+[Play the Game here](images/minesweeper.jpg)!
 
 ### Basic Gameplay
 1. Select your difficulty level.
