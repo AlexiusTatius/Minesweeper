@@ -9,10 +9,10 @@ I remember my first experience with computers in the 90's involved playing this 
 
 ## My Version
 
-![UI Screenshot](https://i.imgur.com/LUzYddy.png)
+![UI Screenshot](images/minesweeper.jpg)
 
 ## Getting Started
-[Play the Game here](images/minesweeper.jpg)!
+[Play the Game here](https://nickarocho.github.io/minesweeper/)!
 
 ### Basic Gameplay
 1. Select your difficulty level.
@@ -66,8 +66,3 @@ This project really was a lot of fun for me. I plan to continue to refine it and
 * Like I mentioned earlier, I would love to make a "display toggle" which flips the CSS to a modernized, clean, flat, minimalist UI.
 * There are some stupid little aesthetic bugs that are making me pull my hair out, like how the cell width/height gets tweaked by a few pixels when the board is totally revealed. I need to fix that.
 * I would also love to flesh out the Windows '95 thing more, making the Start button do something, add a clock to the bottom right corner, and some functional desktop icons.
-* A really difficult feature I would love to tackle would be to make a feature where the user could choose the difficulty by inputing numbers (row/col/mine numbers). 
-
-That'll be for a rainy day.
-
-## Thank you for reading! I hope you enjoy the game :)
