@@ -11,9 +11,6 @@ I remember my first experience with computers in the 90's involved playing this 
 
 ![UI Screenshot](images/minesweeper.jpg)
 
-## Getting Started
-[Play the Game here](https://nickarocho.github.io/minesweeper/)!
-
 ### Basic Gameplay
 1. Select your difficulty level.
 * Easy = 9x9, 10 mines
